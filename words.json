@@ -1,0 +1,10 @@
+{
+  "languages": {
+    "german": {
+      "displayName": "German",
+      "skyLayer": "./assets/background.png",
+      "midLayer": "./assets/mid.png",
+      "topLayer": "./assets/top.png"
+    }
+  }
+}
